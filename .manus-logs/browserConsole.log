@@ -1,0 +1,703 @@
+[2026-07-14T16:54:17.262Z] {"timestamp":1784048055039,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T16:54:17.262Z] {"timestamp":1784048055057,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T16:54:17.262Z] {"timestamp":1784048055833,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T16:54:17.262Z] {"timestamp":1784048056970,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"785053-944095-850947"}],"stack":null}
+[2026-07-14T16:54:17.262Z] {"timestamp":1784048056970,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"785053-944095-850947","domId":"455601-811536-658811","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T16:57:21.105Z] {"timestamp":1784048237877,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T16:57:21.105Z] {"timestamp":1784048238107,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T16:57:21.105Z] {"timestamp":1784048238328,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T16:57:21.105Z] {"timestamp":1784048239492,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"218357-845859-151380"}],"stack":null}
+[2026-07-14T16:57:21.105Z] {"timestamp":1784048239493,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"218357-845859-151380","domId":"91190-84208-531480","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:05:02.930Z] {"timestamp":1784048694083,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-07-14T17:05:06.880Z] {"timestamp":1784048704814,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:05:06.880Z] {"timestamp":1784048705053,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:05:11.895Z] {"timestamp":1784048706924,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:05:12.949Z] {"timestamp":1784048711952,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"767252-106590-279723"}],"stack":null}
+[2026-07-14T17:05:12.949Z] {"timestamp":1784048711953,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"767252-106590-279723","domId":"644583-940612-173551","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:08:11.276Z] {"timestamp":1784048889265,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:08:11.276Z] {"timestamp":1784048889320,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:08:11.276Z] {"timestamp":1784048889494,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:08:11.276Z] {"timestamp":1784048890162,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"374304-794285-295081"}],"stack":null}
+[2026-07-14T17:08:11.276Z] {"timestamp":1784048890162,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"374304-794285-295081","domId":"522469-409115-561885","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048906731,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048906733,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"935051-392448-272757"}],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048906734,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"935051-392448-272757","domId":"687735-301838-751131","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048906755,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048906915,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048908384,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"935051-392448-272757"}],"stack":null}
+[2026-07-14T17:08:28.739Z] {"timestamp":1784048908385,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"935051-392448-272757","domId":"687735-301838-751131","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958145,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958157,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958225,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958434,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"483305-856814-464991"}],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958434,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"483305-856814-464991","domId":"637330-835978-856077","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958778,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"483305-856814-464991"}],"stack":null}
+[2026-07-14T17:09:20.160Z] {"timestamp":1784048958778,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"483305-856814-464991","domId":"637330-835978-856077","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:23.584Z] {"timestamp":1784048961392,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:23.584Z] {"timestamp":1784048961517,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:23.584Z] {"timestamp":1784048961815,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:23.584Z] {"timestamp":1784048962614,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"391356-239241-300451"}],"stack":null}
+[2026-07-14T17:09:23.584Z] {"timestamp":1784048962614,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"391356-239241-300451","domId":"301524-249919-671386","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967169,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967237,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"337421-153628-453293"}],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967237,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"337421-153628-453293","domId":"986384-376635-674533","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967478,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967713,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048967783,"level":"WARN","args":["You're attempting to animate multiple children within AnimatePresence, but its mode is set to \"wait\". This will lead to odd visual behaviour."],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048968322,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"337421-153628-453293"}],"stack":null}
+[2026-07-14T17:09:29.252Z] {"timestamp":1784048968322,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"337421-153628-453293","domId":"986384-376635-674533","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048972191,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048972210,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048972293,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"31465-486989-116002"}],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048972293,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"31465-486989-116002","domId":"460193-23986-866479","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048972590,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048973281,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"31465-486989-116002"}],"stack":null}
+[2026-07-14T17:09:34.229Z] {"timestamp":1784048973281,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"31465-486989-116002","domId":"460193-23986-866479","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048975936,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976021,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"516716-726218-15163"}],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976021,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"516716-726218-15163","domId":"893857-319713-731583","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976023,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976202,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976881,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"516716-726218-15163"}],"stack":null}
+[2026-07-14T17:09:37.942Z] {"timestamp":1784048976881,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"516716-726218-15163","domId":"893857-319713-731583","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048979725,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048979755,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048979794,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"22721-971416-528566"}],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048979794,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"22721-971416-528566","domId":"121463-243679-264324","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048979943,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048980557,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"22721-971416-528566"}],"stack":null}
+[2026-07-14T17:09:41.776Z] {"timestamp":1784048980557,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"22721-971416-528566","domId":"121463-243679-264324","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:09:49.341Z] {"timestamp":1784048987326,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:09:49.341Z] {"timestamp":1784048987468,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:09:49.341Z] {"timestamp":1784048987587,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:09:49.341Z] {"timestamp":1784048988576,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"596381-163024-984562"}],"stack":null}
+[2026-07-14T17:09:49.341Z] {"timestamp":1784048988576,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"596381-163024-984562","domId":"847200-9680-629710","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784048999290,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784048999314,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784048999380,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784048999562,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"14346-350147-384380"}],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784048999562,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"14346-350147-384380","domId":"517996-909722-893610","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784049001249,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"14346-350147-384380"}],"stack":null}
+[2026-07-14T17:10:01.405Z] {"timestamp":1784049001249,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"14346-350147-384380","domId":"517996-909722-893610","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-14T17:10:24.887Z] {"timestamp":1784049022636,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-07-14T17:10:29.827Z] {"timestamp":1784049026894,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-14T17:10:29.827Z] {"timestamp":1784049026982,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-14T17:10:29.827Z] {"timestamp":1784049027247,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-14T17:10:31.540Z] {"timestamp":1784049030241,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"489991-68249-17763"}],"stack":null}
+[2026-07-14T17:10:31.540Z] {"timestamp":1784049030241,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"489991-68249-17763","domId":"561206-320247-646155","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T11:56:07.942Z] {"timestamp":1784116565545,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T11:56:07.942Z] {"timestamp":1784116565748,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T11:56:07.942Z] {"timestamp":1784116565798,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"739339-626639-301124"}],"stack":null}
+[2026-07-15T11:56:07.942Z] {"timestamp":1784116565798,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"739339-626639-301124","domId":"167957-638997-360210","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T11:56:07.942Z] {"timestamp":1784116565962,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T11:56:10.413Z] {"timestamp":1784116568149,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"739339-626639-301124"}],"stack":null}
+[2026-07-15T11:56:10.413Z] {"timestamp":1784116568149,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"739339-626639-301124","domId":"167957-638997-360210","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116583868,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116583923,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116584164,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116584837,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"246457-651649-209680"}],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116584837,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"246457-651649-209680","domId":"230659-141203-955859","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116584855,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"246457-651649-209680"}],"stack":null}
+[2026-07-15T11:56:26.812Z] {"timestamp":1784116584855,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"246457-651649-209680","domId":"230659-141203-955859","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T18:41:11.389Z] {"timestamp":1784140867313,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T18:41:11.389Z] {"timestamp":1784140869100,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T18:41:11.389Z] {"timestamp":1784140869649,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T18:41:11.389Z] {"timestamp":1784140871264,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"86763-242833-434316"}],"stack":null}
+[2026-07-15T18:41:11.389Z] {"timestamp":1784140871264,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"86763-242833-434316","domId":"440551-969811-911093","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:43:43.222Z] {"timestamp":1784148221211,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:43:43.222Z] {"timestamp":1784148221262,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:43:43.222Z] {"timestamp":1784148221321,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:43:45.233Z] {"timestamp":1784148223493,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"591017-179733-668638"}],"stack":null}
+[2026-07-15T20:43:45.233Z] {"timestamp":1784148223493,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"591017-179733-668638","domId":"213887-435029-476154","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:44:43.870Z] {"timestamp":1784148279967,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:44:43.870Z] {"timestamp":1784148280107,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:44:43.870Z] {"timestamp":1784148280135,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:44:43.989Z] {"timestamp":1784148283829,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"152109-934741-18143"}],"stack":null}
+[2026-07-15T20:44:43.989Z] {"timestamp":1784148283829,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"152109-934741-18143","domId":"220376-226780-315688","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:44:43.989Z] {"timestamp":1784148283873,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"152109-934741-18143"}],"stack":null}
+[2026-07-15T20:44:43.989Z] {"timestamp":1784148283874,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"152109-934741-18143","domId":"220376-226780-315688","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:44:48.104Z] {"timestamp":1784148287783,"level":"WARN","args":["Error restoring session",{"type":"Error","message":"Failed to connect to MetaMask","stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}],"stack":null}
+[2026-07-15T20:44:48.104Z] {"timestamp":1784148287783,"level":"WARN","args":["Error restoring session",{"type":"Error","message":"Failed to connect to MetaMask","stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}],"stack":null}
+[2026-07-15T20:44:48.104Z] {"timestamp":1784148287783,"level":"ERROR","args":[{"type":"UnhandledRejection","reason":"Failed to connect to MetaMask","stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}],"stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}
+[2026-07-15T20:44:48.104Z] {"timestamp":1784148287783,"level":"ERROR","args":[{"type":"UnhandledRejection","reason":"Failed to connect to MetaMask","stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}],"stack":"i: Failed to connect to MetaMask\n    at Object.connect (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/scripts/inpage.js:7:84179)"}
+[2026-07-15T20:46:33.920Z] {"timestamp":1784148391901,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:46:33.920Z] {"timestamp":1784148391915,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:46:33.920Z] {"timestamp":1784148392018,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:46:33.920Z] {"timestamp":1784148392162,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"975473-161286-177971"}],"stack":null}
+[2026-07-15T20:46:33.921Z] {"timestamp":1784148392163,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"975473-161286-177971","domId":"593856-154219-242453","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:46:35.911Z] {"timestamp":1784148394007,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"975473-161286-177971"}],"stack":null}
+[2026-07-15T20:46:35.911Z] {"timestamp":1784148394007,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"975473-161286-177971","domId":"593856-154219-242453","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:49:55.825Z] {"timestamp":1784148594323,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148652591,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148652630,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148652645,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"752450-98280-636221"}],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148652645,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"752450-98280-636221","domId":"258620-849270-2905","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148652686,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148653209,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"752450-98280-636221"}],"stack":null}
+[2026-07-15T20:50:54.614Z] {"timestamp":1784148653209,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"752450-98280-636221","domId":"258620-849270-2905","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665228,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665262,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665328,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"569923-246882-773506"}],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665328,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"569923-246882-773506","domId":"175088-114148-467808","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665432,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665689,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"569923-246882-773506"}],"stack":null}
+[2026-07-15T20:51:07.235Z] {"timestamp":1784148665689,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"569923-246882-773506","domId":"175088-114148-467808","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:11.234Z] {"timestamp":1784148670982,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"569923-246882-773506"}],"stack":null}
+[2026-07-15T20:51:11.234Z] {"timestamp":1784148670982,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"569923-246882-773506","domId":"175088-114148-467808","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148674805,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148674814,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148674871,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148675035,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"657618-115662-227147"}],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148675035,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"657618-115662-227147","domId":"291134-825884-594048","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148675084,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"657618-115662-227147"}],"stack":null}
+[2026-07-15T20:51:16.812Z] {"timestamp":1784148675084,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"657618-115662-227147","domId":"291134-825884-594048","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:19.967Z] {"timestamp":1784148677954,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:51:19.967Z] {"timestamp":1784148677973,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:51:19.967Z] {"timestamp":1784148677994,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:51:19.967Z] {"timestamp":1784148678147,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"736069-503259-627602"}],"stack":null}
+[2026-07-15T20:51:19.967Z] {"timestamp":1784148678147,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"736069-503259-627602","domId":"803843-924935-614328","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:51:21.959Z] {"timestamp":1784148680389,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"736069-503259-627602"}],"stack":null}
+[2026-07-15T20:51:21.959Z] {"timestamp":1784148680389,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"736069-503259-627602","domId":"803843-924935-614328","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749296,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749314,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749369,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749470,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"516388-636772-547612"}],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749470,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"516388-636772-547612","domId":"554401-969629-16067","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749974,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"516388-636772-547612"}],"stack":null}
+[2026-07-15T20:52:31.306Z] {"timestamp":1784148749974,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"516388-636772-547612","domId":"554401-969629-16067","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148751789,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148751795,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148751831,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148752016,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"864547-525758-824737"}],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148752016,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"864547-525758-824737","domId":"509831-128430-608504","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148752023,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"864547-525758-824737"}],"stack":null}
+[2026-07-15T20:52:33.804Z] {"timestamp":1784148752023,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"864547-525758-824737","domId":"509831-128430-608504","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775764,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775799,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775844,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"880653-450864-237742"}],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775844,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"880653-450864-237742","domId":"925203-717387-429055","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775869,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148775886,"level":"WARN","args":["You're attempting to animate multiple children within AnimatePresence, but its mode is set to \"wait\". This will lead to odd visual behaviour."],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148776088,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"880653-450864-237742"}],"stack":null}
+[2026-07-15T20:52:57.768Z] {"timestamp":1784148776088,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"880653-450864-237742","domId":"925203-717387-429055","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810523,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810555,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"595900-163683-948864"}],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810555,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"595900-163683-948864","domId":"398864-585966-12856","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810563,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810687,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810903,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"595900-163683-948864"}],"stack":null}
+[2026-07-15T20:53:32.529Z] {"timestamp":1784148810903,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"595900-163683-948864","domId":"398864-585966-12856","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148819984,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820009,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820062,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820239,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"89023-613845-839311"}],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820239,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"89023-613845-839311","domId":"517398-846265-510217","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820269,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"89023-613845-839311"}],"stack":null}
+[2026-07-15T20:53:41.987Z] {"timestamp":1784148820270,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"89023-613845-839311","domId":"517398-846265-510217","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828359,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828364,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828400,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828669,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"152788-55038-459983"}],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828669,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"152788-55038-459983","domId":"810871-582323-823621","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828709,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"152788-55038-459983"}],"stack":null}
+[2026-07-15T20:53:50.376Z] {"timestamp":1784148828709,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"152788-55038-459983","domId":"810871-582323-823621","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148839661,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148839679,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148839735,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148839847,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"530566-428897-352387"}],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148839847,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"530566-428897-352387","domId":"542440-132768-493854","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148841084,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"530566-428897-352387"}],"stack":null}
+[2026-07-15T20:54:01.669Z] {"timestamp":1784148841085,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"530566-428897-352387","domId":"542440-132768-493854","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851585,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851600,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851635,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851826,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"137359-919459-668900"}],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851826,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"137359-919459-668900","domId":"49681-649315-947984","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851844,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"137359-919459-668900"}],"stack":null}
+[2026-07-15T20:54:13.590Z] {"timestamp":1784148851844,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"137359-919459-668900","domId":"49681-649315-947984","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T21:44:13.363Z] {"timestamp":1784151851345,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:44:13.363Z] {"timestamp":1784151851461,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:44:13.363Z] {"timestamp":1784151851670,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:45:13.091Z] {"timestamp":1784151911088,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:45:13.091Z] {"timestamp":1784151911111,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:45:13.091Z] {"timestamp":1784151911206,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:45:15.797Z] {"timestamp":1784151913794,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:45:15.797Z] {"timestamp":1784151913807,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:45:15.797Z] {"timestamp":1784151913856,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:45:31.165Z] {"timestamp":1784151929162,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:45:31.165Z] {"timestamp":1784151929183,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:45:31.165Z] {"timestamp":1784151929237,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:45:43.342Z] {"timestamp":1784151941332,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:45:43.342Z] {"timestamp":1784151941344,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:45:43.342Z] {"timestamp":1784151941377,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:51:03.429Z] {"timestamp":1784152261424,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:51:03.429Z] {"timestamp":1784152261573,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:51:03.429Z] {"timestamp":1784152261665,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Reviews.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/FAQ.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Massage.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Terms.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Gallery.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/SkinAndFacials.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/PermanentMakeup.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313594,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Treatments.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Booking.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Privacy.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileBottomBar.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T21:51:55.426Z] {"timestamp":1784152313595,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T21:52:15.571Z] {"timestamp":1784152333559,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:52:15.571Z] {"timestamp":1784152333626,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:52:15.571Z] {"timestamp":1784152333670,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352899,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Reviews.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/FAQ.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Massage.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Terms.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Gallery.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/SkinAndFacials.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/PermanentMakeup.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Treatments.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Booking.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Privacy.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileBottomBar.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T21:52:33.561Z] {"timestamp":1784152352900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T21:53:23.560Z] {"timestamp":1784152403304,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:53:23.560Z] {"timestamp":1784152403304,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/TreatmentGrid.tsx"],"stack":null}
+[2026-07-15T21:54:00.312Z] {"timestamp":1784152438310,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:54:00.312Z] {"timestamp":1784152438359,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:54:00.312Z] {"timestamp":1784152438427,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:54:00.312Z] {"timestamp":1784152438670,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:54:00.312Z] {"timestamp":1784152438671,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/TreatmentGrid.tsx"],"stack":null}
+[2026-07-15T21:54:11.745Z] {"timestamp":1784152449736,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:54:11.745Z] {"timestamp":1784152449745,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:54:11.745Z] {"timestamp":1784152449899,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:54:31.737Z] {"timestamp":1784152470659,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T21:54:31.737Z] {"timestamp":1784152470659,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:54:53.737Z] {"timestamp":1784152493602,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:54:53.737Z] {"timestamp":1784152493602,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-15T21:55:23.738Z] {"timestamp":1784152522240,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:55:23.738Z] {"timestamp":1784152522240,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/TrustStrip.tsx"],"stack":null}
+[2026-07-15T21:55:49.288Z] {"timestamp":1784152547281,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:55:49.288Z] {"timestamp":1784152547305,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:55:49.288Z] {"timestamp":1784152547466,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:56:03.283Z] {"timestamp":1784152562677,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Reviews.tsx"],"stack":null}
+[2026-07-15T21:56:03.283Z] {"timestamp":1784152562677,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:56:39.283Z] {"timestamp":1784152599229,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Treatments.tsx"],"stack":null}
+[2026-07-15T21:56:39.283Z] {"timestamp":1784152599229,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:57:09.283Z] {"timestamp":1784152627493,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T21:57:09.283Z] {"timestamp":1784152627493,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:57:18.434Z] {"timestamp":1784152636432,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:57:18.434Z] {"timestamp":1784152636449,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:57:18.434Z] {"timestamp":1784152636498,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T21:57:20.434Z] {"timestamp":1784152638835,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T21:57:20.434Z] {"timestamp":1784152638835,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:57:50.434Z] {"timestamp":1784152669977,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T21:57:50.434Z] {"timestamp":1784152669977,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:58:30.432Z] {"timestamp":1784152709617,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T21:58:30.432Z] {"timestamp":1784152709617,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T21:59:40.665Z] {"timestamp":1784152778661,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T21:59:40.665Z] {"timestamp":1784152778675,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T21:59:40.665Z] {"timestamp":1784152778804,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:04:27.005Z] {"timestamp":1784153065000,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:04:27.005Z] {"timestamp":1784153065019,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:04:27.005Z] {"timestamp":1784153065094,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:05:22.828Z] {"timestamp":1784153120819,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:05:22.828Z] {"timestamp":1784153120835,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:05:22.828Z] {"timestamp":1784153121004,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:07:31.331Z] {"timestamp":1784153249329,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:07:31.331Z] {"timestamp":1784153249334,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:07:31.331Z] {"timestamp":1784153249435,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:08:19.332Z] {"timestamp":1784153298878,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:08:19.332Z] {"timestamp":1784153298879,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T22:08:41.994Z] {"timestamp":1784153319990,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:08:41.994Z] {"timestamp":1784153319994,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:08:41.994Z] {"timestamp":1784153320084,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:08:52.469Z] {"timestamp":1784153330465,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:08:52.469Z] {"timestamp":1784153330672,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:08:52.469Z] {"timestamp":1784153330853,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:09:26.466Z] {"timestamp":1784153365733,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:09:26.466Z] {"timestamp":1784153365734,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/TeamCard.tsx"],"stack":null}
+[2026-07-15T22:09:40.602Z] {"timestamp":1784153378599,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:09:40.602Z] {"timestamp":1784153378611,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:09:40.602Z] {"timestamp":1784153378663,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:10:10.602Z] {"timestamp":1784153409661,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:10:10.602Z] {"timestamp":1784153409662,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/ReviewCard.tsx"],"stack":null}
+[2026-07-15T22:10:44.599Z] {"timestamp":1784153443283,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:10:44.599Z] {"timestamp":1784153443283,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/SectionHeading.tsx"],"stack":null}
+[2026-07-15T22:11:12.598Z] {"timestamp":1784153472406,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:11:12.598Z] {"timestamp":1784153472407,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-15T22:11:50.597Z] {"timestamp":1784153508852,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T22:11:50.597Z] {"timestamp":1784153508853,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:13:28.620Z] {"timestamp":1784153608554,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:13:46.592Z] {"timestamp":1784153625165,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:13:58.592Z] {"timestamp":1784153637993,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:13:58.592Z] {"timestamp":1784153637994,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T22:14:14.592Z] {"timestamp":1784153652939,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:14:14.592Z] {"timestamp":1784153652939,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/ReviewCard.tsx"],"stack":null}
+[2026-07-15T22:14:48.589Z] {"timestamp":1784153688542,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T22:14:48.589Z] {"timestamp":1784153688542,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:17:28.545Z] {"timestamp":1784153848163,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:17:28.545Z] {"timestamp":1784153848167,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T22:33:45.538Z] {"timestamp":1784154823535,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:33:45.538Z] {"timestamp":1784154823555,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:33:45.538Z] {"timestamp":1784154823626,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:35:40.187Z] {"timestamp":1784154938185,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:35:40.187Z] {"timestamp":1784154938195,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:35:40.187Z] {"timestamp":1784154938270,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:35:53.221Z] {"timestamp":1784154951213,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:35:53.221Z] {"timestamp":1784154951291,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:35:53.221Z] {"timestamp":1784154951404,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:35:53.221Z] {"timestamp":1784154952038,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"135238-373766-554858"}],"stack":null}
+[2026-07-15T22:35:53.221Z] {"timestamp":1784154952038,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"135238-373766-554858","domId":"816482-73618-649259","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971413,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971428,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971460,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971632,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"803254-854878-543764"}],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971632,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"803254-854878-543764","domId":"506419-378135-498421","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971642,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"803254-854878-543764"}],"stack":null}
+[2026-07-15T22:36:13.422Z] {"timestamp":1784154971642,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"803254-854878-543764","domId":"506419-378135-498421","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983657,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983663,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983706,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983874,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"428490-338726-269345"}],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983874,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"428490-338726-269345","domId":"811543-280045-30075","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983887,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"428490-338726-269345"}],"stack":null}
+[2026-07-15T22:36:25.661Z] {"timestamp":1784154983887,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"428490-338726-269345","domId":"811543-280045-30075","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992537,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992543,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992580,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992773,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"381299-262460-863277"}],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992773,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"381299-262460-863277","domId":"584080-359280-731215","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992797,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"381299-262460-863277"}],"stack":null}
+[2026-07-15T22:36:34.659Z] {"timestamp":1784154992797,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"381299-262460-863277","domId":"584080-359280-731215","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:37:59.079Z] {"timestamp":1784155077068,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:37:59.079Z] {"timestamp":1784155077072,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:37:59.079Z] {"timestamp":1784155077154,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:41:31.117Z] {"timestamp":1784155290980,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:41:31.117Z] {"timestamp":1784155290980,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:41:33.433Z] {"timestamp":1784155291428,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:41:33.433Z] {"timestamp":1784155291454,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:41:33.433Z] {"timestamp":1784155292267,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:41:34.636Z] {"timestamp":1784155292479,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:41:34.636Z] {"timestamp":1784155292511,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:41:34.636Z] {"timestamp":1784155292629,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"660097-232727-872493"}],"stack":null}
+[2026-07-15T22:41:34.636Z] {"timestamp":1784155292629,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"660097-232727-872493","domId":"43902-962708-455326","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:41:34.636Z] {"timestamp":1784155292802,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:41:36.635Z] {"timestamp":1784155294987,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"660097-232727-872493"}],"stack":null}
+[2026-07-15T22:41:36.635Z] {"timestamp":1784155294987,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"660097-232727-872493","domId":"43902-962708-455326","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:42:36.411Z] {"timestamp":1784155354400,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:42:36.411Z] {"timestamp":1784155354410,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:42:36.411Z] {"timestamp":1784155354674,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:43:00.494Z] {"timestamp":1784155380380,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:43:00.495Z] {"timestamp":1784155380381,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T22:43:30.401Z] {"timestamp":1784155409853,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:43:47.657Z] {"timestamp":1784155380378,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:43:47.657Z] {"timestamp":1784155380379,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T22:43:47.657Z] {"timestamp":1784155409854,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:43:50.762Z] {"timestamp":1784155428748,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:43:50.762Z] {"timestamp":1784155428752,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:43:50.762Z] {"timestamp":1784155428884,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:44:06.750Z] {"timestamp":1784155444973,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:06.750Z] {"timestamp":1784155444973,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:14.758Z] {"timestamp":1784155453287,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:14.759Z] {"timestamp":1784155453288,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:20.749Z] {"timestamp":1784155459450,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:20.749Z] {"timestamp":1784155459450,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:26.749Z] {"timestamp":1784155465391,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:26.749Z] {"timestamp":1784155465391,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155444945,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155444945,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155453243,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155453244,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155459450,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155459450,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155465344,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:44:47.664Z] {"timestamp":1784155465344,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:44:55.887Z] {"timestamp":1784155493877,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:44:55.887Z] {"timestamp":1784155493907,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:44:55.887Z] {"timestamp":1784155494037,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:45:16.311Z] {"timestamp":1784155514250,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:45:16.311Z] {"timestamp":1784155515192,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:45:18.353Z] {"timestamp":1784155516525,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:45:20.325Z] {"timestamp":1784155516492,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:45:20.326Z] {"timestamp":1784155516546,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:45:20.326Z] {"timestamp":1784155516623,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"203133-736050-433123"}],"stack":null}
+[2026-07-15T22:45:20.326Z] {"timestamp":1784155516623,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"203133-736050-433123","domId":"365584-86705-888070","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:45:20.326Z] {"timestamp":1784155517570,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:45:21.626Z] {"timestamp":1784155520517,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"203133-736050-433123"}],"stack":null}
+[2026-07-15T22:45:21.626Z] {"timestamp":1784155520517,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"203133-736050-433123","domId":"365584-86705-888070","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:45:34.028Z] {"timestamp":1784155532019,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:45:34.028Z] {"timestamp":1784155532032,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:45:34.028Z] {"timestamp":1784155532114,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:45:36.029Z] {"timestamp":1784155534915,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:36.029Z] {"timestamp":1784155534915,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:45:36.625Z] {"timestamp":1784155534918,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:36.625Z] {"timestamp":1784155534918,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:45:42.626Z] {"timestamp":1784155542408,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:42.626Z] {"timestamp":1784155542408,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:45:44.021Z] {"timestamp":1784155542445,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:44.021Z] {"timestamp":1784155542445,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:45:50.627Z] {"timestamp":1784155550581,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:50.627Z] {"timestamp":1784155550581,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:45:52.021Z] {"timestamp":1784155550622,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T22:45:52.021Z] {"timestamp":1784155550622,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:46:47.937Z] {"timestamp":1784155607637,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:46:47.937Z] {"timestamp":1784155607637,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:46:48.158Z] {"timestamp":1784155607636,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:46:48.158Z] {"timestamp":1784155607636,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:46:54.153Z] {"timestamp":1784155612468,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:46:54.153Z] {"timestamp":1784155612468,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:47:12.153Z] {"timestamp":1784155630168,"level":"DEBUG","args":["[vite]","hot updated: /src/components/misc/CustomCursor.tsx"],"stack":null}
+[2026-07-15T22:47:12.153Z] {"timestamp":1784155630168,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:47:15.098Z] {"timestamp":1784155633092,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:47:15.098Z] {"timestamp":1784155633110,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:47:15.098Z] {"timestamp":1784155633197,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:47:47.767Z] {"timestamp":1784155612467,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:47:47.767Z] {"timestamp":1784155612467,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:47:47.767Z] {"timestamp":1784155630150,"level":"DEBUG","args":["[vite]","hot updated: /src/components/misc/CustomCursor.tsx"],"stack":null}
+[2026-07-15T22:47:47.767Z] {"timestamp":1784155630150,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:48:42.339Z] {"timestamp":1784155720337,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:48:42.339Z] {"timestamp":1784155720388,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:48:42.339Z] {"timestamp":1784155720654,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:50:24.338Z] {"timestamp":1784155823242,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:50:46.338Z] {"timestamp":1784155845269,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:50:46.338Z] {"timestamp":1784155845270,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T22:50:48.139Z] {"timestamp":1784155823248,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:50:48.139Z] {"timestamp":1784155845271,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:50:48.139Z] {"timestamp":1784155845272,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T22:51:18.337Z] {"timestamp":1784155876563,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:51:18.337Z] {"timestamp":1784155876563,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T22:51:38.335Z] {"timestamp":1784155896484,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:51:47.789Z] {"timestamp":1784155858733,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"203133-736050-433123"}],"stack":null}
+[2026-07-15T22:51:47.789Z] {"timestamp":1784155858734,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"203133-736050-433123","domId":"365584-86705-888070","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T22:51:47.789Z] {"timestamp":1784155876504,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:51:47.789Z] {"timestamp":1784155876505,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T22:51:47.789Z] {"timestamp":1784155896488,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:51:52.336Z] {"timestamp":1784155911012,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:51:52.337Z] {"timestamp":1784155911012,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:52:02.336Z] {"timestamp":1784155922199,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:52:02.336Z] {"timestamp":1784155922199,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:52:47.785Z] {"timestamp":1784155910937,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:52:47.785Z] {"timestamp":1784155910937,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:52:47.785Z] {"timestamp":1784155922180,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T22:52:47.785Z] {"timestamp":1784155922180,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:55:28.495Z] {"timestamp":1784156128232,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (new export)"],"stack":null}
+[2026-07-15T22:55:28.496Z] {"timestamp":1784156128235,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T22:55:28.496Z] {"timestamp":1784156128235,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:55:28.496Z] {"timestamp":1784156128306,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:55:47.755Z] {"timestamp":1784156128125,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (new export)"],"stack":null}
+[2026-07-15T22:55:47.756Z] {"timestamp":1784156128127,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T22:55:47.756Z] {"timestamp":1784156128127,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:55:47.756Z] {"timestamp":1784156128300,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T22:56:12.331Z] {"timestamp":1784156171698,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:56:12.331Z] {"timestamp":1784156171699,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:56:29.779Z] {"timestamp":1784156187771,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:56:29.779Z] {"timestamp":1784156187798,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:56:29.779Z] {"timestamp":1784156187871,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:56:43.774Z] {"timestamp":1784156201805,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:56:43.774Z] {"timestamp":1784156201805,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:56:47.751Z] {"timestamp":1784156171627,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:56:47.751Z] {"timestamp":1784156171628,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:56:47.751Z] {"timestamp":1784156201805,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:56:47.751Z] {"timestamp":1784156201805,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:56:53.479Z] {"timestamp":1784156211454,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:56:53.479Z] {"timestamp":1784156211516,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:56:53.479Z] {"timestamp":1784156211619,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:59:10.879Z] {"timestamp":1784156348868,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:59:10.879Z] {"timestamp":1784156348890,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:59:10.879Z] {"timestamp":1784156348989,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:59:18.902Z] {"timestamp":1784156357684,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:59:18.902Z] {"timestamp":1784156357685,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:59:47.763Z] {"timestamp":1784156357571,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T22:59:47.763Z] {"timestamp":1784156357571,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T22:59:49.793Z] {"timestamp":1784156387783,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T22:59:49.793Z] {"timestamp":1784156387820,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T22:59:49.793Z] {"timestamp":1784156387907,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T22:59:49.793Z] {"timestamp":1784156387956,"level":"WARN","args":["You're attempting to animate multiple children within AnimatePresence, but its mode is set to \"wait\". This will lead to odd visual behaviour."],"stack":null}
+[2026-07-15T23:00:00.707Z] {"timestamp":1784156398701,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:00:00.707Z] {"timestamp":1784156398714,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:00:00.707Z] {"timestamp":1784156398796,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:00:03.127Z] {"timestamp":1784156401120,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:00:03.127Z] {"timestamp":1784156401152,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:00:03.127Z] {"timestamp":1784156401427,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:01:46.933Z] {"timestamp":1784156504927,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:01:46.933Z] {"timestamp":1784156504938,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:01:46.933Z] {"timestamp":1784156505051,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:02:22.935Z] {"timestamp":1784156542018,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-15T23:02:22.935Z] {"timestamp":1784156542018,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T23:02:22.935Z] {"timestamp":1784156542018,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:22.935Z] {"timestamp":1784156542039,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T23:02:32.929Z] {"timestamp":1784156551432,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-15T23:02:32.929Z] {"timestamp":1784156551432,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T23:02:32.929Z] {"timestamp":1784156551432,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:32.929Z] {"timestamp":1784156551457,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T23:02:36.932Z] {"timestamp":1784156556831,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:36.932Z] {"timestamp":1784156556832,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T23:02:47.233Z] {"timestamp":1784156567056,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:02:47.233Z] {"timestamp":1784156567056,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:48.076Z] {"timestamp":1784156541983,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156541984,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156541984,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156542044,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156551429,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156551429,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156551429,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156551457,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156556831,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156556831,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/MobileMenu.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156567055,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:02:48.077Z] {"timestamp":1784156567056,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:02:55.232Z] {"timestamp":1784156573442,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:02:55.232Z] {"timestamp":1784156573442,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:03:22.714Z] {"timestamp":1784156600708,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:03:22.714Z] {"timestamp":1784156600749,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:03:22.714Z] {"timestamp":1784156600813,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:03:48.043Z] {"timestamp":1784156573405,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:03:48.044Z] {"timestamp":1784156573405,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:08:41.395Z] {"timestamp":1784156919392,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:08:41.395Z] {"timestamp":1784156919397,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:08:41.395Z] {"timestamp":1784156919536,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:08:41.395Z] {"timestamp":1784156919622,"level":"WARN","args":["You're attempting to animate multiple children within AnimatePresence, but its mode is set to \"wait\". This will lead to odd visual behaviour."],"stack":null}
+[2026-07-15T23:08:45.394Z] {"timestamp":1784156923798,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:08:45.394Z] {"timestamp":1784156923798,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/ReviewCarousel.tsx"],"stack":null}
+[2026-07-15T23:08:48.086Z] {"timestamp":1784156923766,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:08:48.086Z] {"timestamp":1784156923767,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/ReviewCarousel.tsx"],"stack":null}
+[2026-07-15T23:09:13.395Z] {"timestamp":1784156952040,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Gallery.tsx"],"stack":null}
+[2026-07-15T23:09:13.395Z] {"timestamp":1784156952040,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:21.395Z] {"timestamp":1784156960311,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Treatments.tsx"],"stack":null}
+[2026-07-15T23:09:21.395Z] {"timestamp":1784156960311,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:33.394Z] {"timestamp":1784156972732,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:33.394Z] {"timestamp":1784156972732,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/TeamCard.tsx"],"stack":null}
+[2026-07-15T23:09:41.395Z] {"timestamp":1784156980410,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T23:09:41.395Z] {"timestamp":1784156980411,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156952015,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Gallery.tsx"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156952015,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156960299,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Treatments.tsx"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156960299,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156972703,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156972703,"level":"DEBUG","args":["[vite]","hot updated: /src/components/shared/TeamCard.tsx"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156980410,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/MeetTheTeam.tsx"],"stack":null}
+[2026-07-15T23:09:48.043Z] {"timestamp":1784156980410,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:59.395Z] {"timestamp":1784156998799,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:09:59.395Z] {"timestamp":1784156998799,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T23:10:27.395Z] {"timestamp":1784157027197,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:10:27.395Z] {"timestamp":1784157027198,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T23:10:38.600Z] {"timestamp":1784157036591,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:10:38.600Z] {"timestamp":1784157036696,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:10:38.600Z] {"timestamp":1784157036796,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:10:38.600Z] {"timestamp":1784157037845,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:10:38.600Z] {"timestamp":1784157037845,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784156998798,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784156998799,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784157027187,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784157027188,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/Hero.tsx"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784157037811,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:10:48.060Z] {"timestamp":1784157037811,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/LocationSection.tsx"],"stack":null}
+[2026-07-15T23:11:00.597Z] {"timestamp":1784157059932,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:00.597Z] {"timestamp":1784157059932,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:10.601Z] {"timestamp":1784157070585,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:10.601Z] {"timestamp":1784157070585,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:26.594Z] {"timestamp":1784157086234,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:26.594Z] {"timestamp":1784157086234,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:32.660Z] {"timestamp":1784157092573,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:32.660Z] {"timestamp":1784157092573,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:42.594Z] {"timestamp":1784157102265,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:11:42.594Z] {"timestamp":1784157102265,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157059908,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157059908,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157070561,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157070561,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157086232,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157086232,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157092526,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157092526,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157102250,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:11:48.056Z] {"timestamp":1784157102251,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:52.594Z] {"timestamp":1784157111119,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:11:52.594Z] {"timestamp":1784157111119,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:11:59.916Z] {"timestamp":1784157117910,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:11:59.916Z] {"timestamp":1784157117955,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:11:59.916Z] {"timestamp":1784157118029,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:12:48.074Z] {"timestamp":1784157111097,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:12:48.074Z] {"timestamp":1784157111097,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:14:53.630Z] {"timestamp":1784157291548,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:14:53.630Z] {"timestamp":1784157291829,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:14:53.630Z] {"timestamp":1784157291994,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:14:53.630Z] {"timestamp":1784157293465,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"433431-186445-195818"}],"stack":null}
+[2026-07-15T23:14:53.630Z] {"timestamp":1784157293466,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"433431-186445-195818","domId":"990753-727121-120427","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157310679,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157310756,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"32283-107039-321401"}],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157310756,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"32283-107039-321401","domId":"836009-707221-330612","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157310888,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157311007,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157311523,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"32283-107039-321401"}],"stack":null}
+[2026-07-15T23:15:12.685Z] {"timestamp":1784157311523,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"32283-107039-321401","domId":"836009-707221-330612","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157348380,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157348414,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157348480,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"362926-404759-835727"}],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157348480,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"362926-404759-835727","domId":"773291-818364-211997","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157348676,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157349393,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"362926-404759-835727"}],"stack":null}
+[2026-07-15T23:15:50.544Z] {"timestamp":1784157349393,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"362926-404759-835727","domId":"773291-818364-211997","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:18:48.318Z] {"timestamp":1784157527486,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:18:48.318Z] {"timestamp":1784157527486,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:18:48.795Z] {"timestamp":1784157527461,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:18:48.795Z] {"timestamp":1784157527461,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:18:52.317Z] {"timestamp":1784157531737,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:18:52.317Z] {"timestamp":1784157531737,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:18:52.794Z] {"timestamp":1784157531750,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:18:52.794Z] {"timestamp":1784157531750,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:18:58.318Z] {"timestamp":1784157537517,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:18:58.318Z] {"timestamp":1784157537517,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:18:58.794Z] {"timestamp":1784157537525,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-15T23:18:58.794Z] {"timestamp":1784157537525,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:04.319Z] {"timestamp":1784157542912,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:19:04.319Z] {"timestamp":1784157542912,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:04.794Z] {"timestamp":1784157542933,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Contact.tsx"],"stack":null}
+[2026-07-15T23:19:04.794Z] {"timestamp":1784157542933,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:12.320Z] {"timestamp":1784157552308,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:19:12.322Z] {"timestamp":1784157552309,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:12.795Z] {"timestamp":1784157552318,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:19:12.795Z] {"timestamp":1784157552318,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:42.323Z] {"timestamp":1784157581054,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:19:42.323Z] {"timestamp":1784157581054,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:42.796Z] {"timestamp":1784157581078,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:19:42.796Z] {"timestamp":1784157581078,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:19:45.931Z] {"timestamp":1784157583927,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:19:45.931Z] {"timestamp":1784157584062,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:19:45.931Z] {"timestamp":1784157584281,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:20:32.260Z] {"timestamp":1784157630238,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:20:32.260Z] {"timestamp":1784157630393,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:20:32.260Z] {"timestamp":1784157630558,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:20:34.245Z] {"timestamp":1784157632616,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"400959-330727-923152"}],"stack":null}
+[2026-07-15T23:20:34.245Z] {"timestamp":1784157632617,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"400959-330727-923152","domId":"277431-318098-525810","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:29:09.944Z] {"timestamp":1784158149573,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:29:09.944Z] {"timestamp":1784158149573,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:29:48.509Z] {"timestamp":1784158149516,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Footer.tsx"],"stack":null}
+[2026-07-15T23:29:48.509Z] {"timestamp":1784158149518,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158197778,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158197824,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158197887,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"580675-471846-867120"}],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158197888,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"580675-471846-867120","domId":"764073-331328-608697","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158197938,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158199098,"level":"LOG","args":["                           dom","                        health","domHealthCheck: receive",{"contentId":"580675-471846-867120"}],"stack":null}
+[2026-07-15T23:30:00.212Z] {"timestamp":1784158199098,"level":"LOG","args":["                           dom","                        health","domHealthCheck: respond",{"contentId":"580675-471846-867120","domId":"764073-331328-608697","state":"ready","hasEternlApi":true,"domReady":true}],"stack":null}
