@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Mail, Phone, Sparkles } from 'lucide-react';
+import { Mail, Phone, Flower2 } from 'lucide-react';
 import { useTilt } from '@/hooks/useTilt';
 
 interface TeamCardProps {
@@ -59,7 +59,7 @@ export function TeamCard({
         {/* Services */}
         <div className="mb-6">
           <div className="flex items-center gap-2 mb-3">
-            <Sparkles className="w-3.5 h-3.5 text-accent" />
+            <Flower2 className="w-3.5 h-3.5 text-accent" />
             <p className="text-xs font-bold uppercase tracking-widest text-accent">
               Specialities
             </p>

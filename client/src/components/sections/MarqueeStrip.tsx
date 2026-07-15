@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
-import { Sparkles } from 'lucide-react';
+import { Dot } from 'lucide-react';
 
 interface MarqueeStripProps {
   items?: string[];
@@ -74,7 +74,7 @@ export function MarqueeStrip({
             className="inline-flex items-center gap-2 mx-6 text-sm font-semibold uppercase tracking-widest select-none"
             style={{ color: isDark ? 'rgba(255,255,255,0.7)' : 'oklch(0.4 0.04 145)' }}
           >
-            <Sparkles
+            <Dot
               className="w-3 h-3 flex-shrink-0"
               style={{ color: 'oklch(0.55 0.15 145)' }}
             />

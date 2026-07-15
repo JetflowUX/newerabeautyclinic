@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 
-interface TrustItem {
+export interface TrustItem {
   label: string;
   value: string | number;
+  icon: ReactNode;
   suffix?: string;
 }
 
@@ -22,54 +23,27 @@ function AnimatedCounter({
 }) {
   const numValue = typeof value === 'number' ? value : parseFloat(String(value));
   const isNumeric = !isNaN(numValue);
-
-  // Extract suffix already in string values like '100+' or '11+'
-  const stringSuffix =
-    typeof value === 'string' ? value.replace(/[0-9.]/g, '') : '';
-
+  const stringSuffix = typeof value === 'string' ? value.replace(/[0-9.]/g, '') : '';
   const [displayValue, setDisplayValue] = useState(isNumeric ? 0 : value);
 
   useEffect(() => {
     if (!isNumeric) return;
-
-    let animationFrameId: number;
-    let currentValue = 0;
-
-    const animate = () => {
-      currentValue += numValue / 50;
-      if (currentValue < numValue) {
-        setDisplayValue(
-          numValue % 1 !== 0
-            ? parseFloat(currentValue.toFixed(1))
-            : Math.floor(currentValue),
-        );
-        animationFrameId = requestAnimationFrame(animate);
+    let raf: number;
+    let current = 0;
+    const tick = () => {
+      current += numValue / 50;
+      if (current < numValue) {
+        setDisplayValue(numValue % 1 !== 0 ? parseFloat(current.toFixed(1)) : Math.floor(current));
+        raf = requestAnimationFrame(tick);
       } else {
         setDisplayValue(numValue);
       }
     };
-
-    const timer = setTimeout(() => {
-      animationFrameId = requestAnimationFrame(animate);
-    }, delay * 1000);
-
-    return () => {
-      clearTimeout(timer);
-      cancelAnimationFrame(animationFrameId);
-    };
+    const t = setTimeout(() => { raf = requestAnimationFrame(tick); }, delay * 1000);
+    return () => { clearTimeout(t); cancelAnimationFrame(raf); };
   }, [numValue, isNumeric, delay]);
 
-  if (!isNumeric) {
-    // Display non-numeric string values directly (e.g. 'European-Trained')
-    return <>{value}</>;
-  }
-
-  return (
-    <>
-      {displayValue}
-      {stringSuffix || suffix}
-    </>
-  );
+  return <>{displayValue}{stringSuffix || suffix}</>;
 }
 
 export function TrustStrip({ items }: TrustStripProps) {
@@ -82,28 +56,47 @@ export function TrustStrip({ items }: TrustStripProps) {
       transition={{ duration: 0.6 }}
     >
       <div className="container">
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
-          {items.map((item, index) => (
-            <motion.div
-              key={index}
-              className="text-center"
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, delay: index * 0.1 }}
-            >
-              <div className="text-3xl md:text-4xl font-bold text-accent mb-2">
-                <AnimatedCounter
-                  value={item.value}
-                  suffix={item.suffix}
-                  delay={index * 0.1}
-                />
-              </div>
-              <p className="text-sm md:text-base text-foreground font-medium">
-                {item.label}
-              </p>
-            </motion.div>
-          ))}
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-6 md:gap-4">
+          {items.map((item, index) => {
+            const numValue = typeof item.value === 'number'
+              ? item.value
+              : parseFloat(String(item.value));
+            const isNumeric = !isNaN(numValue);
+
+            return (
+              <motion.div
+                key={index}
+                className="flex flex-col items-center text-center gap-3"
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: index * 0.08, ease: 'easeOut' as const }}
+              >
+                {/* Icon badge */}
+                <div
+                  className="w-11 h-11 rounded-xl flex items-center justify-center flex-shrink-0"
+                  style={{ background: 'oklch(0.55 0.15 145 / 0.12)' }}
+                >
+                  <span className="text-accent [&>svg]:w-5 [&>svg]:h-5">
+                    {item.icon}
+                  </span>
+                </div>
+
+                {/* Stat */}
+                <p className="text-3xl md:text-4xl font-bold text-accent leading-none text-center">
+                  {isNumeric
+                    ? <AnimatedCounter value={item.value} suffix={item.suffix} delay={index * 0.1} />
+                    : item.value
+                  }
+                </p>
+
+                {/* Label */}
+                <p className="text-xs md:text-sm text-muted-foreground font-medium leading-snug text-center">
+                  {item.label}
+                </p>
+              </motion.div>
+            );
+          })}
         </div>
       </div>
     </motion.section>

@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Star, Users, Award, Globe, Gem } from 'lucide-react';
 import { siteConfig } from '@/config/siteConfig';
 import { Hero } from '@/components/sections/Hero';
 import { TrustStrip } from '@/components/sections/TrustStrip';
@@ -11,11 +12,11 @@ import { LocationSection } from '@/components/sections/LocationSection';
 
 export default function Home() {
   const trustItems = [
-    { label: 'Client Rating', value: siteConfig.trust.rating },
-    { label: 'Verified Reviews', value: siteConfig.trust.reviews },
-    { label: 'Years of Experience', value: siteConfig.trust.experience },
-    { label: 'European-Trained Team', value: siteConfig.trust.team },
-    { label: 'Premium Products', value: siteConfig.trust.products },
+    { label: 'Client Rating', value: siteConfig.trust.rating, icon: <Star /> },
+    { label: 'Verified Reviews', value: siteConfig.trust.reviews, icon: <Users /> },
+    { label: 'Years of Experience', value: siteConfig.trust.experience, icon: <Award /> },
+    { label: 'European-Trained Team', value: 'European', icon: <Globe /> },
+    { label: 'Professional Products', value: 'Premium', icon: <Gem /> },
   ];
 
   const containerVariants = {
