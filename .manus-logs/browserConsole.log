@@ -1071,3 +1071,62 @@
 [2026-07-17T22:26:12.046Z] {"timestamp":1784327169796,"level":"DEBUG","args":["[vite] connected."],"stack":null}
 [2026-07-17T22:26:13.764Z] {"timestamp":1784327172211,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
 [2026-07-17T22:26:13.764Z] {"timestamp":1784327172442,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:34:05.913Z] {"timestamp":1784331243911,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:34:05.914Z] {"timestamp":1784331244024,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:34:05.914Z] {"timestamp":1784331244140,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:34:37.001Z] {"timestamp":1784331274998,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:34:37.001Z] {"timestamp":1784331275011,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:34:37.001Z] {"timestamp":1784331275059,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:44:08.288Z] {"timestamp":1784331846285,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:44:08.288Z] {"timestamp":1784331846306,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:44:08.288Z] {"timestamp":1784331846402,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:44:14.288Z] {"timestamp":1784331853945,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-07-17T23:44:14.288Z] {"timestamp":1784331853945,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:44:20.315Z] {"timestamp":1784331858312,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:44:20.315Z] {"timestamp":1784331858326,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:44:20.315Z] {"timestamp":1784331858375,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:44:20.315Z] {"timestamp":1784331858469,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:44:32.317Z] {"timestamp":1784331871827,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-17T23:44:32.317Z] {"timestamp":1784331871827,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-17T23:44:32.317Z] {"timestamp":1784331871827,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:44:32.317Z] {"timestamp":1784331871867,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-17T23:44:42.314Z] {"timestamp":1784331880618,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-17T23:44:42.314Z] {"timestamp":1784331880618,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-17T23:44:42.314Z] {"timestamp":1784331880618,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:44:42.314Z] {"timestamp":1784331880662,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-17T23:44:50.319Z] {"timestamp":1784331889511,"level":"DEBUG","args":["[vite]","invalidate /src/components/layout/Header.tsx: Could not Fast Refresh (\"navLinks\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports"],"stack":null}
+[2026-07-17T23:44:50.319Z] {"timestamp":1784331889511,"level":"DEBUG","args":["[vite]","hot updated: /src/components/layout/Header.tsx"],"stack":null}
+[2026-07-17T23:44:50.319Z] {"timestamp":1784331889511,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:44:50.319Z] {"timestamp":1784331889544,"level":"DEBUG","args":["[vite]","hot updated: /src/App.tsx"],"stack":null}
+[2026-07-17T23:44:58.314Z] {"timestamp":1784331897883,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:44:58.314Z] {"timestamp":1784331897883,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-17T23:45:06.316Z] {"timestamp":1784331906038,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:45:06.316Z] {"timestamp":1784331906038,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-17T23:45:16.315Z] {"timestamp":1784331914319,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-07-17T23:45:16.315Z] {"timestamp":1784331914319,"level":"DEBUG","args":["[vite]","hot updated: /src/components/sections/BookingCTA.tsx"],"stack":null}
+[2026-07-17T23:45:40.549Z] {"timestamp":1784331938547,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:45:40.549Z] {"timestamp":1784331938565,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:45:40.549Z] {"timestamp":1784331938751,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:45:40.549Z] {"timestamp":1784331938849,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:47:41.785Z] {"timestamp":1784332059783,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:47:41.785Z] {"timestamp":1784332059806,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:47:41.785Z] {"timestamp":1784332059880,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:47:41.785Z] {"timestamp":1784332059954,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:47:44.983Z] {"timestamp":1784332062976,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:47:44.983Z] {"timestamp":1784332062983,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:47:44.983Z] {"timestamp":1784332063074,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:47:44.983Z] {"timestamp":1784332063150,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:51:32.015Z] {"timestamp":1784332290009,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:51:32.015Z] {"timestamp":1784332290013,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:51:32.015Z] {"timestamp":1784332290145,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:51:32.015Z] {"timestamp":1784332290233,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}
+[2026-07-17T23:51:51.620Z] {"timestamp":1784332309618,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:51:51.620Z] {"timestamp":1784332309631,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:51:51.620Z] {"timestamp":1784332309687,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:52:04.202Z] {"timestamp":1784332322195,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:52:04.202Z] {"timestamp":1784332322205,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:52:04.202Z] {"timestamp":1784332322255,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:52:35.510Z] {"timestamp":1784332353507,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-07-17T23:52:35.510Z] {"timestamp":1784332353517,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-07-17T23:52:35.510Z] {"timestamp":1784332353580,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-07-17T23:52:35.510Z] {"timestamp":1784332353670,"level":"WARN","args":["Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."],"stack":null}

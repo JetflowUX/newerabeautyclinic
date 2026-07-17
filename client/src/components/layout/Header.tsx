@@ -5,6 +5,7 @@ import { useLocation } from 'wouter';
 import { siteConfig } from '@/config/siteConfig';
 import { MobileMenu } from '@/components/layout/MobileMenu';
 import { Logo } from '@/components/shared/Logo';
+import { useMagnetic } from '@/hooks/useMagnetic';
 
 export const navLinks = [
   { label: 'Home', href: '/' },
@@ -18,6 +19,7 @@ export const navLinks = [
 ];
 
 export function Header() {
+  const bookMagnetic = useMagnetic();
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [location] = useLocation();
@@ -147,11 +149,15 @@ export function Header() {
             <div className="w-px h-5 bg-border" />
 
             <motion.a
+              ref={bookMagnetic.ref}
               href={siteConfig.booking.url}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-shimmer text-sm px-5 py-2.5"
-              whileHover={{ scale: 1.04, y: -1 }}
+              style={{ x: bookMagnetic.x, y: bookMagnetic.y }}
+              onMouseMove={bookMagnetic.onMouseMove}
+              onMouseLeave={bookMagnetic.onMouseLeave}
+              whileHover={{ scale: 1.04 }}
               whileTap={{ scale: 0.97 }}
               transition={{ type: 'spring', stiffness: 400, damping: 17 }}
             >

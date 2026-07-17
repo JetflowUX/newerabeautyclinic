@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { siteConfig } from '@/config/siteConfig';
+import { useMagnetic } from '@/hooks/useMagnetic';
 import { Phone } from 'lucide-react';
 
 interface BookingCTAProps {
@@ -17,6 +18,7 @@ export function BookingCTA({
   secondaryButtonText = `Call ${siteConfig.business.phone}`,
   backgroundImage,
 }: BookingCTAProps) {
+  const magnetic = useMagnetic();
   return (
     <motion.section
       className="relative py-20 md:py-32 overflow-hidden"
@@ -86,11 +88,15 @@ export function BookingCTA({
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <motion.a
+            ref={magnetic.ref}
             href={siteConfig.booking.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="btn-primary"
-            whileHover={{ scale: 1.05, y: -2 }}
+            className="btn-primary btn-shimmer"
+            style={{ x: magnetic.x, y: magnetic.y }}
+            onMouseMove={magnetic.onMouseMove}
+            onMouseLeave={magnetic.onMouseLeave}
+            whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.97 }}
             transition={{ type: 'spring', stiffness: 400, damping: 17 }}
           >

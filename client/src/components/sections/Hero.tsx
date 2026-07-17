@@ -2,6 +2,8 @@ import { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { siteConfig } from '@/config/siteConfig';
 import { SplitText } from '@/components/shared/SplitText';
+import { useMagnetic } from '@/hooks/useMagnetic';
+import { useReducedMotion } from '@/hooks/useReducedMotion';
 import { ArrowDown } from 'lucide-react';
 
 interface HeroProps {
@@ -29,6 +31,8 @@ export function Hero({
   ],
 }: HeroProps) {
   const sectionRef = useRef<HTMLElement>(null);
+  const prefersReducedMotion = useReducedMotion();
+  const magnetic = useMagnetic();
   const { scrollYProgress } = useScroll({
     target: sectionRef,
     offset: ['start start', 'end start'],
@@ -52,11 +56,14 @@ export function Hero({
         style={{ y: bgY }}
       >
         {backgroundImage && (
-          <img
+          <motion.img
             src={backgroundImage}
             alt=""
             className="w-full h-full object-cover"
             loading="eager"
+            style={{ transformOrigin: 'center' }}
+            animate={prefersReducedMotion ? undefined : { scale: [1, 1.06] }}
+            transition={{ duration: 22, repeat: Infinity, repeatType: 'reverse', ease: 'easeInOut' }}
           />
         )}
         {/* Multi-layer gradient overlay */}
@@ -105,7 +112,7 @@ export function Hero({
             className="heading-lg mb-6 text-foreground"
             style={{ lineHeight: 1.1 }}
           >
-            <SplitText text={headline} by="words" delay={0.25} tag="span" />
+            <SplitText text={headline} by="words" delay={0.25} tag="span" reveal="blur" />
           </h1>
 
           {/* Subheadline */}
@@ -126,11 +133,15 @@ export function Hero({
             transition={{ duration: 0.6, delay: 0.7, ease: 'easeOut' }}
           >
             <motion.a
+              ref={magnetic.ref}
               href={siteConfig.booking.url}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary btn-shimmer text-center"
-              whileHover={{ scale: 1.04, y: -2 }}
+              style={{ x: magnetic.x, y: magnetic.y }}
+              onMouseMove={magnetic.onMouseMove}
+              onMouseLeave={magnetic.onMouseLeave}
+              whileHover={{ scale: 1.04 }}
               whileTap={{ scale: 0.97 }}
               transition={{ type: 'spring', stiffness: 400, damping: 17 }}
             >

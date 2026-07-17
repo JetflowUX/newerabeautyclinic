@@ -4,6 +4,7 @@ import { siteConfig } from '@/config/siteConfig';
 import { Hero } from '@/components/sections/Hero';
 import { TrustStrip } from '@/components/sections/TrustStrip';
 import { MarqueeStrip } from '@/components/sections/MarqueeStrip';
+import { ProductWall } from '@/components/sections/ProductWall';
 import { SectionHeading } from '@/components/shared/SectionHeading';
 import { TreatmentGrid } from '@/components/shared/TreatmentGrid';
 import { ReviewCarousel } from '@/components/shared/ReviewCarousel';
@@ -178,8 +179,18 @@ export default function Home() {
       <MarqueeStrip direction="right" variant="dark" />
 
       {/* Reviews Section */}
-      <section className="section-spacing bg-secondary">
-        <div className="container">
+      <section className="section-spacing bg-secondary relative overflow-hidden">
+        {/* Soft decorative sage glow behind the carousel */}
+        <div
+          className="pointer-events-none absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[70vw] max-w-3xl aspect-square rounded-full"
+          style={{
+            background:
+              'radial-gradient(circle, oklch(0.55 0.15 145 / 0.10) 0%, transparent 65%)',
+            filter: 'blur(20px)',
+          }}
+          aria-hidden
+        />
+        <div className="container relative z-10">
           <motion.div
             className="text-center mb-12"
             initial={{ opacity: 0, y: 20 }}
@@ -226,22 +237,7 @@ export default function Home() {
             className="mb-12"
           />
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
-            {siteConfig.products?.map((product, index) => (
-              <motion.div
-                key={index}
-                className="flex items-center justify-center p-6 bg-secondary rounded-lg"
-                initial={{ opacity: 0, scale: 0.9 }}
-                whileInView={{ opacity: 1, scale: 1 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.6, delay: index * 0.1 }}
-              >
-                <p className="font-semibold text-center text-foreground">
-                  {product.name}
-                </p>
-              </motion.div>
-            ))}
-          </div>
+          <ProductWall products={siteConfig.products ?? []} />
         </div>
       </section>
 

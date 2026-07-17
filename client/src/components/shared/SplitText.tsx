@@ -9,6 +9,11 @@ interface SplitTextProps {
   by?: 'chars' | 'words';
   once?: boolean;
   tag?: 'h1' | 'h2' | 'h3' | 'p' | 'span';
+  /**
+   * 'default' uses a rise + subtle 3D tilt. 'blur' adds a soft focus-in for a
+   * more refined, editorial reveal (used on the hero headline).
+   */
+  reveal?: 'default' | 'blur';
 }
 
 const containerVariants: Variants = {
@@ -28,12 +33,32 @@ const charVariants: Variants = {
   },
 };
 
+const charVariantsBlur: Variants = {
+  hidden: { opacity: 0, y: '0.5em', filter: 'blur(8px)' },
+  visible: {
+    opacity: 1,
+    y: '0em',
+    filter: 'blur(0px)',
+    transition: { duration: 0.6, ease: [0.22, 1, 0.36, 1] },
+  },
+};
+
 const wordVariants: Variants = {
   hidden: { opacity: 0, y: 20 },
   visible: {
     opacity: 1,
     y: 0,
     transition: { duration: 0.55, ease: [0.22, 1, 0.36, 1] },
+  },
+};
+
+const wordVariantsBlur: Variants = {
+  hidden: { opacity: 0, y: 24, filter: 'blur(10px)' },
+  visible: {
+    opacity: 1,
+    y: 0,
+    filter: 'blur(0px)',
+    transition: { duration: 0.7, ease: [0.22, 1, 0.36, 1] },
   },
 };
 
@@ -44,8 +69,12 @@ export function SplitText({
   by = 'words',
   once = true,
   tag: Tag = 'span',
+  reveal = 'default',
 }: SplitTextProps) {
   const MotionTag = motion[Tag] as typeof motion.span;
+  const isBlur = reveal === 'blur';
+  const activeCharVariants = isBlur ? charVariantsBlur : charVariants;
+  const activeWordVariants = isBlur ? wordVariantsBlur : wordVariants;
 
   if (by === 'chars') {
     const chars = text.split('');
@@ -63,8 +92,8 @@ export function SplitText({
         {chars.map((char, i) => (
           <motion.span
             key={i}
-            variants={charVariants}
-            style={{ display: 'inline-block', whiteSpace: 'pre' }}
+            variants={activeCharVariants}
+            style={{ display: 'inline-block', whiteSpace: 'pre', willChange: 'transform, filter, opacity' }}
             aria-hidden
           >
             {char}
@@ -88,10 +117,10 @@ export function SplitText({
       style={{ display: 'block' }}
     >
       {words.map((word, i) => (
-        <span key={i} style={{ display: 'inline-block', overflow: 'hidden' }}>
+        <span key={i} style={{ display: 'inline-block', overflow: isBlur ? 'visible' : 'hidden' }}>
           <motion.span
-            variants={wordVariants}
-            style={{ display: 'inline-block' }}
+            variants={activeWordVariants}
+            style={{ display: 'inline-block', willChange: 'transform, filter, opacity' }}
             aria-hidden
           >
             {word}
