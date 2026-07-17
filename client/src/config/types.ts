@@ -63,7 +63,9 @@ export interface TeamMember {
   role: string;
   bio: string;
   services: string[];
-  image: string;
+  /** Real photograph of the team member. Omit until one is available: a stock
+   *  or generated face must never stand in for a named person. */
+  image?: string;
 }
 
 export interface FeaturedTreatment {
@@ -82,6 +84,7 @@ export interface Treatment {
   price: number;
   duration: number;
   description: string;
+  image?: string;
 }
 
 export interface Review {
@@ -109,7 +112,6 @@ export interface FAQ {
 
 export interface Product {
   name: string;
-  logo: string;
 }
 
 export interface Philosophy {

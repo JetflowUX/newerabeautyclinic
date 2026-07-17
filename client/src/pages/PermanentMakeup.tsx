@@ -11,7 +11,7 @@ export default function PermanentMakeup() {
       id: t.id,
       title: t.name,
       description: t.description,
-      image: '/placeholder-treatment.jpg',
+      image: t.image ?? '/placeholder-permanent-makeup.jpg',
     }));
 
   // If no permanent makeup treatments in config, show featured ones

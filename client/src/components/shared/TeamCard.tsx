@@ -7,7 +7,8 @@ interface TeamCardProps {
   role: string;
   bio: string;
   services: string[];
-  image: string;
+  /** Real photograph only. Without one the card falls back to a monogram. */
+  image?: string;
   email?: string;
   phone?: string;
   index?: number;
@@ -35,21 +36,41 @@ export function TeamCard({
       viewport={{ once: true, margin: '-80px' }}
       transition={{ duration: 0.6, delay: index * 0.15 }}
     >
-      {/* Image */}
+      {/* Image, or a monogram while awaiting a real photograph */}
       <div className="relative overflow-hidden h-80">
-        <img
-          src={image}
-          alt={name}
-          className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-        />
-        {/* Gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+        {image ? (
+          <>
+            <img
+              src={image}
+              alt={name}
+              className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+            />
+            {/* Gradient overlay */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
 
-        {/* Name overlay at bottom of image */}
-        <div className="absolute bottom-0 left-0 right-0 p-6">
-          <h3 className="text-white font-bold text-xl mb-0.5">{name}</h3>
-          <p className="text-white/80 text-sm font-medium">{role}</p>
-        </div>
+            {/* Name overlay at bottom of image */}
+            <div className="absolute bottom-0 left-0 right-0 p-6">
+              <h3 className="text-white font-bold text-xl mb-0.5">{name}</h3>
+              <p className="text-white/80 text-sm font-medium">{role}</p>
+            </div>
+          </>
+        ) : (
+          <>
+            <div className="w-full h-full bg-secondary flex items-center justify-center">
+              <span
+                aria-hidden="true"
+                className="font-serif text-[7rem] leading-none text-accent/30 select-none transition-transform duration-700 group-hover:scale-105"
+              >
+                {name.trim().charAt(0).toUpperCase()}
+              </span>
+            </div>
+
+            <div className="absolute bottom-0 left-0 right-0 p-6">
+              <h3 className="text-foreground font-bold text-xl mb-0.5">{name}</h3>
+              <p className="text-muted-foreground text-sm font-medium">{role}</p>
+            </div>
+          </>
+        )}
       </div>
 
       {/* Content */}

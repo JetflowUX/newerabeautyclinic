@@ -9,7 +9,7 @@ import { Logo } from '@/components/shared/Logo';
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Treatments', href: '/treatments' },
-  { label: 'Results', href: '/gallery' },
+  { label: 'Gallery', href: '/gallery' },
   { label: 'About', href: '/about' },
   { label: 'Team', href: '/team' },
   { label: 'Reviews', href: '/reviews' },

@@ -62,7 +62,7 @@ export const siteConfig: SiteConfigType = {
       role: 'Permanent Makeup Artist and Beauty Therapist',
       bio: 'Deimante specialises in enhancing natural beauty through permanent makeup, henna brows, brow lamination, lash lifts, tinting, shaping, ear piercing and occasion makeup. Her approach combines careful consultation, precision and a commitment to client satisfaction.',
       services: ['Permanent makeup', 'Lip blush', 'Brows', 'Lashes', 'Makeup', 'Beauty treatments'],
-      image: '/placeholder-deimante.jpg',
+      // image: add a real photograph here. The card shows a monogram until then.
     },
     {
       id: 'ernesta',
@@ -70,7 +70,7 @@ export const siteConfig: SiteConfigType = {
       role: 'Clinic Owner, Beauty and Holistic Therapist',
       bio: 'Ernesta combines professional beauty treatments with a holistic understanding of health and wellbeing. Her experience includes facials, massage, brows, body treatments, sound healing, skincare and holistic therapies.',
       services: ['Facials', 'Massage', 'Brows', 'Body treatments', 'Sound healing', 'Holistic wellness'],
-      image: '/placeholder-ernesta.jpg',
+      // image: add a real photograph here. The card shows a monogram until then.
     },
   ],
 
@@ -136,6 +136,7 @@ export const siteConfig: SiteConfigType = {
       price: 250,
       duration: 150,
       description: 'Soft, powdery brow fill that mimics the look of light makeup. Ideal for all skin types including oily skin.',
+      image: '/placeholder-pmu-powder-ombre.jpg',
     },
     {
       id: 'microblading',
@@ -144,6 +145,7 @@ export const siteConfig: SiteConfigType = {
       price: 250,
       duration: 150,
       description: 'Fine hair-stroke technique that creates ultra-realistic brows. Best suited to normal and dry skin types.',
+      image: '/placeholder-pmu-microblading.jpg',
     },
     {
       id: 'combo-brows',
@@ -152,6 +154,7 @@ export const siteConfig: SiteConfigType = {
       price: 280,
       duration: 180,
       description: 'A blend of microblading at the front and powder shading towards the tail for a full, defined brow.',
+      image: '/placeholder-pmu-combo-brows.jpg',
     },
     {
       id: 'lip-blush',
@@ -160,6 +163,7 @@ export const siteConfig: SiteConfigType = {
       price: 280,
       duration: 180,
       description: 'Subtle colour and definition added to the lips for a naturally flushed, fuller-looking pout.',
+      image: '/placeholder-pmu-lip-blush.jpg',
     },
     {
       id: 'permanent-eyeliner',
@@ -168,6 +172,7 @@ export const siteConfig: SiteConfigType = {
       price: 200,
       duration: 120,
       description: 'Defined lash-line enhancement for effortlessly polished eyes every day, from subtle to bold.',
+      image: '/placeholder-pmu-eyeliner.jpg',
     },
     {
       id: 'pmu-top-up',
@@ -176,6 +181,7 @@ export const siteConfig: SiteConfigType = {
       price: 120,
       duration: 90,
       description: 'Refresh and maintain any existing permanent makeup treatment. Required 6–12 weeks after initial procedure.',
+      image: '/placeholder-pmu-top-up.jpg',
     },
     // ── Brows and Lashes ─────────────────────────────────────────────────
     {
@@ -503,11 +509,13 @@ export const siteConfig: SiteConfigType = {
   ],
 
   // Professional Products
+  // Rendered as styled text. Using a brand's actual logo needs their permission
+  // and their real asset, so names are set as type rather than as an image.
   products: [
-    { name: 'Dermalogica', logo: '/placeholder-dermalogica.png' },
-    { name: 'Olaplex', logo: '/placeholder-olaplex.png' },
-    { name: 'Schwarzkopf Professional', logo: '/placeholder-schwarzkopf.png' },
-    { name: 'Young Living', logo: '/placeholder-youngliving.png' },
+    { name: 'Dermalogica' },
+    { name: 'Olaplex' },
+    { name: 'Schwarzkopf Professional' },
+    { name: 'Young Living' },
   ],
 
   // Gallery Categories
@@ -517,19 +525,24 @@ export const siteConfig: SiteConfigType = {
     'Lips',
     'Skin',
     'Facials',
-    'Clinic Interior',
-    'Team',
+    'In the Studio',
   ],
 
-  // Gallery Images (placeholder structure - replace with actual image URLs)
+  // Gallery Images
+  // These are stock photographs illustrating the treatments offered, so the alt
+  // text describes the treatment rather than claiming it is the clinic's own
+  // work. Captioning stock imagery as real client results would breach the ASA
+  // and CAP rules on cosmetic advertising. Swap in the clinic's own photography
+  // (with written client consent for any before/after shots) and the wording can
+  // then describe actual results.
   gallery: [
-    { id: 1, category: 'Permanent Makeup', image: '/placeholder-gallery-1.jpg', alt: 'Permanent makeup results' },
-    { id: 2, category: 'Brows', image: '/placeholder-gallery-2.jpg', alt: 'Brow lamination results' },
-    { id: 3, category: 'Lips', image: '/placeholder-gallery-3.jpg', alt: 'Lip blush results' },
-    { id: 4, category: 'Skin', image: '/placeholder-gallery-4.jpg', alt: 'Skin treatment results' },
-    { id: 5, category: 'Facials', image: '/placeholder-gallery-5.jpg', alt: 'Facial treatment' },
-    { id: 6, category: 'Clinic Interior', image: '/placeholder-gallery-6.jpg', alt: 'Clinic interior' },
-    { id: 7, category: 'Team', image: '/placeholder-gallery-7.jpg', alt: 'Team photo' },
+    { id: 1, category: 'Permanent Makeup', image: '/placeholder-gallery-1.jpg', alt: 'Permanent makeup being applied during a treatment' },
+    { id: 2, category: 'Brows', image: '/placeholder-gallery-2.jpg', alt: 'Brow shaping and definition treatment' },
+    { id: 3, category: 'Lips', image: '/placeholder-gallery-3.jpg', alt: 'Close-up of naturally defined lips' },
+    { id: 4, category: 'Skin', image: '/placeholder-gallery-4.jpg', alt: 'Clay mask applied during a skin treatment' },
+    { id: 5, category: 'Facials', image: '/placeholder-gallery-5.jpg', alt: 'Facial cleansing treatment in progress' },
+    { id: 6, category: 'In the Studio', image: '/placeholder-gallery-6.jpg', alt: 'Warm, calm treatment space with folded towels' },
+    { id: 7, category: 'In the Studio', image: '/placeholder-gallery-7.jpg', alt: 'Therapist applying a lash treatment' },
   ],
 
   // FAQ

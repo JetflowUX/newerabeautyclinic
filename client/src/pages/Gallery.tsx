@@ -37,9 +37,9 @@ export default function Gallery() {
             transition={{ duration: 0.6 }}
           >
             <p className="eyebrow mb-3">GALLERY</p>
-            <h1 className="heading-lg mb-6">Real Treatments. Beautiful Results.</h1>
+            <h1 className="heading-lg mb-6">The Treatments We Offer.</h1>
             <p className="body-lg text-muted-foreground max-w-2xl mx-auto">
-              Explore our collection of treatment results and clinic photography showcasing the quality and care we provide.
+              A look at the treatments in our collection and the calm, professional environment we deliver them in.
             </p>
           </motion.div>
         </div>
@@ -111,7 +111,8 @@ export default function Gallery() {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
           >
-            Individual treatment results may vary. A consultation may be required before treatment.
+            Photography here is illustrative of the treatments we offer rather than of individual
+            clients. Results vary from person to person, and a consultation may be required before treatment.
           </motion.p>
         </div>
       </section>
